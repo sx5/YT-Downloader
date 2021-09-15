@@ -1,2 +1,2 @@
 # YT-Downloader
-Welp, it dont work but the concept is there, and its easy to fix up
+Welp, uh download yt vids at 22 (720)
